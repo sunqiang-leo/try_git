@@ -1,0 +1,3 @@
+[submodule "try_git_submodule"]
+	path = try_git_submodule
+	url = https://github.com/sunqiang-leo/try_git_submodule.git
